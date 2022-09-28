@@ -21,4 +21,4 @@ print(type({9.8, 3.14, 2.7}))  # Set
 print(type((9.8, 3.14, 2.7)))  # Tuple
 print("\n")
 print("Euclidean distance between (2, 3) and (10, 8)")
-print('{0:.2f}'.format(((2 - 10) ** 2 + (3 - 8) ** 2) ** 0.5))
+print('{0:.2f}'.format(((2 - 10) ** 2 + (3 - 8) ** 2) ** 0.5)))
